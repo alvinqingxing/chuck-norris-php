@@ -1,0 +1,11 @@
+{
+    "name": "alvin/chuck-norris-php",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Alvin Lim",
+            "email": "alvinch@hawaii.edu"
+        }
+    ],
+    "require": {}
+}
